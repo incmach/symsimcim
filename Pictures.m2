@@ -1,4 +1,0 @@
--- Read points from a bitmap: we get three point sets (a more intense color is obtained by repeating the point), which are considered subimages.
--- Find the corresponding point in the symmetric power of the plane (GIT quotient (which for us will probably always be Proj (or Spec) of the ring of invariants)).
--- Take a point near it.
--- Unwrap a list of point from it and draw an image with such a list of points (or, for a large number of points like, say, five-six, build a theoretical unwrapper).
